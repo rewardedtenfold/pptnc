@@ -12,10 +12,10 @@
 		<h3 id="b">Pengumpulan dan Penggunaan Informasi</h3>
 		<p id="b1" style="text-align:justify">PENYEDIA tidak mengumpulkan, menyimpan, dan menggunakan data pribadi apapun dari PENGGUNA. Namun, untuk memberikan pengalaman yang lebih baik bagi PENGGUNA, saat LAYANAN digunakan, LAYANAN menggunakan layanan-layanan pihak ketiga yang dapat mengumpulkan informasi berupa data pribadi untuk mengidentifikasi PENGGUNA.</p>
 		<p id="b2" style="text-align:justify">Mengenai pengumpulan, penggunaan, dan hal lain terkait data pribadi PENGGUNA oleh pihak ketiga, PENGGUNA dapat menemukan penjabarannya pada Kebijakan Privasi pihak ketiga. Di bawah ini adalah tautan ke Kebijakan Privasi pihak ketiga yang digunakan oleh LAYANAN:</p>
-		<p id="b3" style="text-align:justify"><a href="https://www.applovin.com/privacy/"><u>AppLovin</u></a>.</p>
-		<p id="b4" style="text-align:justify"><a href="https://www.adcolony.com/privacy-policy/"><u>AdColony</u></a>.</p>
-		<p id="b5" style="text-align:justify"><a href="https://answers.chartboost.com/en-us/articles/200780269"><u>Chartboost</u></a>.</p>
-		<p id="b6" style="text-align:justify"><a href="https://unity3d.com/legal/privacy-policy"><u>Unity Ads</u></a>.</p>
+		<p id="b3" style="text-align:justify"><a href="https://www.applovin.com/privacy/"><u>AppLovin</u></a></p>
+		<p id="b4" style="text-align:justify"><a href="https://www.adcolony.com/privacy-policy/"><u>AdColony</u></a></p>
+		<p id="b5" style="text-align:justify"><a href="https://answers.chartboost.com/en-us/articles/200780269"><u>Chartboost</u></a></p>
+		<p id="b6" style="text-align:justify"><a href="https://unity3d.com/legal/privacy-policy"><u>Unity Ads</u></a></p>
 		<h3 id="c">Tautan ke Situs-situs Lain</h3>
 		<p id="c1" style="text-align:justify">LAYANAN mungkin berisi tautan ke situs web, layanan, dan/atau aplikasi (termasuk iklan yang mungkin menghubungkan ke pihak ketiga). PENYEDIA tidak bertanggung jawab untuk pelaksanaan kebijakan privasi, keamanan, dan konten dari situs web, layanan, dan/atau aplikasi tersebut. Karena itu, PENYEDIA sangat menyarankan PENGGUNA untuk meninjau Kebijakan Privasi situs web, layanan, dan/atau aplikasi tersebut.</p>
 		<h3 id="d">Anak-anak</h3>
