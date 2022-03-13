@@ -4,7 +4,7 @@
 		<title id="title">Syarat dan Ketentuan</title>
 	</head>
 	<body>
-		<h2 id="a"></br>Syarat dan Ketentuan</h2>
+		<h2 id="a">Syarat dan Ketentuan</h2>
 		<p id="a1" style="text-align:justify">Dengan mengunduh atau menggunakan aplikasi NAMAAPLIKASI (selanjutnya disebut sebagai LAYANAN) ini, ketentuan ini akan berlaku secara otomatis untuk Anda (selanjutnya disebut sebagai PENGGUNA), karena itu PENGGUNA harus memastikan bahwa PENGGUNA membacanya dengan cermat sebelum menggunakan LAYANAN. PENGGUNA tidak diperbolehkan memodifikasi LAYANAN, bagian apa pun dari LAYANAN dengan cara apa pun. PENGGUNA tidak diizinkan untuk mencoba mengekstrak kode sumber LAYANAN, dan PENGGUNA juga tidak boleh mencoba menerjemahkan LAYANAN ke dalam bahasa lain, atau membuat versi turunan. LAYANAN itu sendiri masih milik Tenfold (selanjutnya disebut sebagai PENYEDIA).</p>
 		<p id="a2" style="text-align:justify">PENYEDIA berkomitmen untuk memastikan bahwa LAYANAN bermanfaat dan seefisien mungkin. Untuk alasan itu, PENYEDIA berhak untuk membuat perubahan pada LAYANAN kapan saja dan untuk alasan apa pun.</p>
 		<p id="a3" style="text-align:justify">LAYANAN mungkin menyimpan dan memproses data pribadi yang telah PENGGUNA berikan kepada PENYEDIA untuk menyediakan LAYANAN ini. Penjelasan lebih lanjut mengenai data pribadi dapat ditemukan di <a href='http://rewardedtenfold.com/doashalatwitir/doashalatwitir_privacypolicy.html'><u>Kebijakan Privasi</u></a>.</p>
