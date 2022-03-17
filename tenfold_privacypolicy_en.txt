@@ -6,16 +6,16 @@
 	<body>
 		<h2 id="a">Privacy Policy</h2>
 		<p id="a1" style="text-align:justify">Tenfold (herein after referred as PROVIDER) built the NAMAAPLIKASI app (herein after referred as SERVICE) as an ad supported app. SERVICE is provided by PROVIDER for User of SERVICE (herein after referred as USER) at no cost and is intended for use as is.</p>
-		<p id="a2" style="text-align:justify">This page is used to inform USER regarding PROVIDER‘s policies with the collection, use, and disclosure of personal information if USER decided to use SERVICE.</p>
+		<p id="a2" style="text-align:justify">This page is used to inform USER regarding PROVIDER’s policies with the collection, use, and disclosure of personal information if USER decided to use SERVICE.</p>
 		<p id="a3" style="text-align:justify">If USER chooses to use SERVICE, then this Privacy Policy will automaticaly apply to USER. therefore USER should make sure that USER read this Privacy Policy carefully before using SERVICE.</p>
-		<p id="a4" style="text-align:justify">The terms used in this Privacy Policy have the same meanings as in PROVIDER‘s <a href="https://raw.githubusercontent.com/rewardedtenfold/pptnc/main/tenfold_termsandconditions_en.txt"><u>Terms and Conditions</u></a> which is accessible at SERVICE, unless otherwise defined in this Privacy Policy.</p>
+		<p id="a4" style="text-align:justify">The terms used in this Privacy Policy have the same meanings as in PROVIDER’s <a href="https://raw.githubusercontent.com/rewardedtenfold/pptnc/main/tenfold_termsandconditions_en.txt"><u>Terms and Conditions</u></a> which is accessible at SERVICE, unless otherwise defined in this Privacy Policy.</p>
 		<h3 id="b">Information Collection and Use</h3>
 		<p id="b1" style="text-align:justify">PROVIDER does not collect, store and use any personal data from USER. However, in order to provide a better experience for USER, while using SERVICE, SERVICE uses third party services that can collect information such as personal data to identify the USER.</p>
-		<p id="b2" style="text-align:justify">Regarding collection, use, and other matters related to USER‘s personal data by third party, USER can find the description in third party‘s Privacy Policy. Below is/are link(s) to the Privacy Policy(s) of third party(s) used by the SERVICE:</p>
-		<p id="b3" style="text-align:justify"><a href="https://www.applovin.com/privacy/"><u>AppLovin</u></a>.</p>
-		<p id="b4" style="text-align:justify"><a href="https://www.adcolony.com/privacy-policy/"><u>AdColony</u></a>.</p>
-		<p id="b5" style="text-align:justify"><a href="https://answers.chartboost.com/en-us/articles/200780269"><u>Chartboost</u></a>.</p>
-		<p id="b6" style="text-align:justify"><a href="https://unity3d.com/legal/privacy-policy"><u>Unity Ads</u></a>.</p>
+		<p id="b2" style="text-align:justify">Regarding collection, use, and other matters related to USER’s personal data by third party, USER can find the description in third party’s Privacy Policy. Below is/are link(s) to the Privacy Policy(s) of third party(s) used by the SERVICE:</p>
+		<p id="b3" style="text-align:justify"><a href="https://www.applovin.com/privacy/"><u>AppLovin</u></a></p>
+		<p id="b4" style="text-align:justify"><a href="https://www.adcolony.com/privacy-policy/"><u>AdColony</u></a></p>
+		<p id="b5" style="text-align:justify"><a href="https://answers.chartboost.com/en-us/articles/200780269"><u>Chartboost</u></a></p>
+		<p id="b6" style="text-align:justify"><a href="https://unity3d.com/legal/privacy-policy"><u>Unity Ads</u></a></p>
 		<h3 id="c">Links to Other Sites</h3>
 		<p id="c1" style="text-align:justify">SERVICE may contains links to websites, services, and/or applications (including ads which may link to third parties). PROVIDER is not responsible for privacy practices, securities, and contents of those websites, services, and/or applications. Therefore, PROVIDER strongly recommends USER to review Privacy Policies of those websites, services, and/or applications.</p>
 		<h3 id="d">Children</h3>
