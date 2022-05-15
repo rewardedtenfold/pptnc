@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title id="title">User Consent</title>
+	</head>
+	<body>
+		<p id="bytap" style="text-align:center"><b>By tapping "OK" button below, You (hereinafter referred to as USER) have read and agree to this User Consent.</b></p>
+		<h2 id="a"></br></br>User Consent</br></br></h2>
+		<p id="a1" style="text-align:justify">Due to Google Play Data Safety, it is required for Tenfold (hereinafter referred to as PROVIDER) to explain in this NAMAAPLIKASI (hereinafter referred to as SERVICE) regarding the collection of USER's personal data and its use. Therefore, it is expected that USER reads it carefully before using SERVICE.</p>
+		<h3 id="b">1. Personal Data Handling</h3>
+		<p id="b1" style="text-align:justify">Through this SERVICE, PROVIDER itself does not collect, use, or store USER's personal data. However, PROVIDER uses ads SDKs from third party(s) which when USER uses SERVICE, third party(s) may collect some personal data of USER. Such personal data can be in the form of:</p>
+		<ul style="padding-left:1.2em; margin-left:0">
+			<li id="b2" style="text-align:justify">app activity, which is about how USER interacts with the application, for example USER taps on an ad display;</li>
+			<li id="b3" style="text-align:justify">app info and performance, which is about the status and performance of third party(s) services in providing ads, such as error logs, diagnostics and other data related to app performance;</li>
+			<li id="b4" style="text-align:justify">device or other IDs, which is about the ID associated with USER's device on which SERVICE is installed, for example IMEI number, MAC address, advertising ID (AD-ID).</li>
+		</ul>
+		<p id="b5" style="text-align:justify">The personal data mentioned above may be used and shared by third party(s) ads providers for the purpose of:</p>
+		<ul style="padding-left:1.2em; margin-left:0">
+			<li id="b6" style="text-align:justify">SERVICE's functionality in providing advertising services to USER, i.e. AD-ID is used to provide ads personalization,</li>
+			<li id="b7" style="text-align:justify">advertising or marketing,</li>
+			<li id="b8" style="text-align:justify">analytics,</li>
+			<li id="b9" style="text-align:justify">fraud prevention,</li>
+			<li id="b10" style="text-align:justify">security,</li>
+			<li id="b11" style="text-align:justify">compliance.</li>
+		</ul>
+		<p id="b12" style="text-align:justify">USER can opt-out of ads personalization. By choosing opt-out, USER will still receive ads, but the ad that appears will be less relevant to USER. How to opt-out of ads personalization can be found in <a href="https://raw.githubusercontent.com/rewardedtenfold/pptnc/main/tenfold_privacypolicy_en.txt"><u>Privacy Policy</u></a> under Ads Personalization.</p>
+		<h3 id="c">2. Personal Data Encryption</h3>
+		<p id="c1" style="text-align:justify">PROVIDER uses several ads SDKs from third party(s) to provide ads services to USER. (Most) third party(s) whose SDKs are used by SERVICE encrypt USER's personal data in transit, but some others do not explicitly mention this.</p>
+		<h3 id="d">3. Personal Data Deletion Request</h3>
+		<p id="d1" style="text-align:justify">The third party(s) whose ads SDKs are used by SERVICE provides a way for USER who wish to submit request for deletion of USER's personal data, by contacting the relevant third party(s) contact. More details can be found in <a href="https://raw.githubusercontent.com/rewardedtenfold/pptnc/main/tenfold_privacypolicy_en.txt"><u>Privacy Policy</u></a> under Third Parties section.</p>
+	</body>
+</html>

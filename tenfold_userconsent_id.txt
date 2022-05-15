@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title id="title">User Consent</title>
+	</head>
+	<body>
+		<p id="bytap" style="text-align:center"><b>Dengan mengetuk tombol "OK" di bawah ini, Anda (selanjutnya disebut sebagai PENGGUNA) telah membaca dan menyetujui Persetujuan Pengguna ini.</b></p>
+		<h2 id="a"></br></br>User Consent</br></br></h2>
+		<p id="a1" style="text-align:justify">Dengan berlakunya Keamanan Data Google Play, maka diharuskan bagi Tenfold (selanjutnya disebut sebagai PENYEDIA) untuk menjelaskan di dalam aplikasi NAMAAPLIKASI (selanjutnya disebut sebagai LAYANAN) ini tentang pengambilan data pribadi PENGGUNA serta penggunaannya. Karena itu, diharapkan PENGGUNA membacanya dengan cermat sebelum menggunakan LAYANAN.</p>
+		<h3 id="b">1. Penanganan Data Pribadi</h3>
+		<p id="b1" style="text-align:justify">Melalui LAYANAN ini, PENYEDIA sendiri tidak mengumpulkan, menggunakan, maupun menyimpan data pribadi PENGGUNA. Namun, PENYEDIA menggunakan SDK iklan dari pihak ketiga yang pada saat PENGGUNA menggunakan LAYANAN, pihak ketiga mungkin mengumpulkan sejumlah data pribadi PENGGUNA. Data pribadi tersebut dapat berupa:</p>
+		<ul style="padding-left:1.2em; margin-left:0">
+			<li id="b2" style="text-align:justify">aktivitas aplikasi, yaitu tentang bagaimana PENGGUNA berinteraksi dengan aplikasi, misalnya PENGGUNA mengetuk pada tampilan iklan;</li>
+			<li id="b3" style="text-align:justify">info dan performa aplikasi, yaitu tentang status dan performa layanan pihak ketiga dalam menyediakan iklan, misalnya log error, diagnostik, dan data lainnya terkait performa aplikasi;</li>
+			<li id="b4" style="text-align:justify">ID perangkat atau lainnya, yaitu tentang ID yang berkaitan dengan perangkat PENGGUNA yang terpasang LAYANAN, misalnya nomor IMEI, alamat MAC, ID iklan (AD-ID).</li>
+		</ul>
+		<p id="b5" style="text-align:justify">Data pribadi tersebut di atas mungkin digunakan dan dibagikan oleh pihak ketiga penyedia iklan dengan tujuan untuk:</p>
+		<ul style="padding-left:1.2em; margin-left:0">
+			<li id="b6" style="text-align:justify">fungsionalitas LAYANAN dalam menyediakan layanan iklan kepada PENGGUNA, misalnya ID iklan digunakan untuk menyediakan personalisasi iklan,</li>
+			<li id="b7" style="text-align:justify">periklanan atau pemasaran,</li>
+			<li id="b8" style="text-align:justify">analitik,</li>
+			<li id="b9" style="text-align:justify">pencegahan penipuan,</li>
+			<li id="b10" style="text-align:justify">keamanan,</li>
+			<li id="b11" style="text-align:justify">kepatuhan.</li>
+		</ul>
+		<p id="b12" style="text-align:justify">PENGGUNA dapat memilih untuk tidak ikut personalisasi iklan. Dengan memilih tidak ikut, PENGGUNA akan tetap menerima iklan, namun iklan yang tampil akan kurang relevan bagi PENGGUNA. Cara untuk tidak ikut personalisasi iklan dapat ditemukan dalam <a href="https://raw.githubusercontent.com/rewardedtenfold/pptnc/main/tenfold_privacypolicy_en.txt"><u>Kebijakan Privasi</u></a> pada bagian Personalisasi Iklan.</p>
+		<h3 id="c">2. Enkripsi Data Pribadi</h3>
+		<p id="c1" style="text-align:justify">PENYEDIA menggunakan beberapa SDK iklan dari pihak ketiga untuk menyediakan layanan iklan kepada PENGGUNA. (Kebanyakan) pihak ketiga yang SDK-nya digunakan oleh LAYANAN mengenkripsi data pribadi PENGGUNA pada saat transit, namun sebagian yang lain tidak menyebutkan secara jelas tentang hal ini.</p>
+		<h3 id="d">3. Permintaan Penghapusan Data Pribadi</h3>
+		<p id="d1" style="text-align:justify">Pihak ketiga yang SDK iklannya digunakan oleh LAYANAN menyediakan cara bagi PENGGUNA yang ingin mengajukan permintaan penghapusan data pribadi PENGGUNA, yaitu dengan menghubungi kontak pihak ketiga terkait. Selengkapnya dapat ditemukan dalam <a href="https://raw.githubusercontent.com/rewardedtenfold/pptnc/main/tenfold_privacypolicy_en.txt"><u>Kebijakan Privasi</u></a> pada bagian Pihak Ketiga.</p>
+	</body>
+</html>

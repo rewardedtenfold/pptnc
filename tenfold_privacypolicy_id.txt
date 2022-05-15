@@ -6,24 +6,60 @@
 	<body>
 		<h2 id="a">Kebijakan Privasi</h2>
 		<p id="a1" style="text-align:justify">Tenfold (selanjutnya disebut sebagai PENYEDIA) membuat aplikasi NAMAAPLIKASI (selanjutnya disebut sebagai LAYANAN) sebagai aplikasi yang didukung iklan. LAYANAN disediakan oleh PENYEDIA kepada Pengguna LAYANAN (selanjutnya disebut sebagai PENGGUNA) dengan tanpa biaya dan dimaksudkan untuk digunakan sebagaimana mestinya.</p>
-		<p id="a2" style="text-align:justify">Halaman ini digunakan untuk memberi tahu PENGGUNA mengenai kebijakan PENYEDIA terhadap pengumpulan, penggunaan, dan pengungkapan informasi pribadi apabila PENGGUNA memutuskan untuk menggunakan LAYANAN.</p>
-		<p id="a3" style="text-align:justify">Jika PENGGUNA memilih untuk menggunakan LAYANAN, maka Kebijakan Privasi ini secara otomatis akan berlaku untuk PENGGUNA. Maka PENGGUNA harus memastikan untuk membaca Kebijakan Privasi ini dengan cermat sebelum menggunakan LAYANAN.</p>
+		<p id="a2" style="text-align:justify">Halaman ini digunakan untuk memberi tahu PENGGUNA mengenai kebijakan PENYEDIA terhadap pengumpulan, penggunaan, dan pengungkapan data pribadi apabila PENGGUNA memutuskan untuk menggunakan LAYANAN.</p>
+		<p id="a3" style="text-align:justify">Jika PENGGUNA memilih untuk menggunakan LAYANAN, maka Kebijakan Privasi ini secara otomatis akan berlaku untuk PENGGUNA. Karena itu, PENGGUNA harus memastikan untuk membaca Kebijakan Privasi ini dengan cermat sebelum menggunakan LAYANAN.</p>
 		<p id="a4" style="text-align:justify">Ketentuan-ketentuan yang digunakan dalam Kebijakan Privasi ini memiliki arti yang sama seperti dalam <a href="https://raw.githubusercontent.com/rewardedtenfold/pptnc/main/tenfold_termsandconditions_id.txt"><u>Syarat dan Ketentuan</u></a> PENYEDIA yang dapat diakses di LAYANAN, kecuali ditentukan lain dalam Kebijakan Privasi ini.</p>
-		<h3 id="b">Pengumpulan dan Penggunaan Informasi</h3>
-		<p id="b1" style="text-align:justify">PENYEDIA tidak mengumpulkan, menyimpan, dan menggunakan data pribadi apapun dari PENGGUNA. Namun, untuk memberikan pengalaman yang lebih baik bagi PENGGUNA, saat LAYANAN digunakan, LAYANAN menggunakan layanan-layanan pihak ketiga yang dapat mengumpulkan informasi berupa data pribadi untuk mengidentifikasi PENGGUNA.</p>
-		<p id="b2" style="text-align:justify">Mengenai pengumpulan, penggunaan, dan hal lain terkait data pribadi PENGGUNA oleh pihak ketiga, PENGGUNA dapat menemukan penjabarannya pada Kebijakan Privasi pihak ketiga. Di bawah ini adalah tautan ke Kebijakan Privasi pihak ketiga yang digunakan oleh LAYANAN:</p>
-		<p id="b3" style="text-align:justify"><a href="https://www.applovin.com/privacy/"><u>AppLovin</u></a></p>
-		<p id="b4" style="text-align:justify"><a href="https://www.adcolony.com/privacy-policy/"><u>AdColony</u></a></p>
-		<p id="b5" style="text-align:justify"><a href="https://answers.chartboost.com/en-us/articles/200780269"><u>Chartboost</u></a></p>
-		<p id="b6" style="text-align:justify"><a href="https://unity3d.com/legal/privacy-policy"><u>Unity Ads</u></a></p>
-		<h3 id="c">Tautan ke Situs-situs Lain</h3>
-		<p id="c1" style="text-align:justify">LAYANAN mungkin berisi tautan ke situs web, layanan, dan/atau aplikasi (termasuk iklan yang mungkin menghubungkan ke pihak ketiga). PENYEDIA tidak bertanggung jawab untuk pelaksanaan kebijakan privasi, keamanan, dan konten dari situs web, layanan, dan/atau aplikasi tersebut. Karena itu, PENYEDIA sangat menyarankan PENGGUNA untuk meninjau Kebijakan Privasi situs web, layanan, dan/atau aplikasi tersebut.</p>
-		<h3 id="d">Anak-anak</h3>
-		<p id="d1" style="text-align:justify">LAYANAN tidak ditujukan untuk anak-anak berusia di bawah 13 tahun. Jika PENGGUNA berusia di bawah 13 tahun, disarankan untuk mendapatkan pendampingan dari orang tua atau wali pada saat menggunakan LAYANAN.</p>
-		<h3 id="e">Perubahan-perubahan pada Kebijakan Privasi Ini</h3>
-		<p id="e1" style="text-align:justify">PENYEDIA dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Dengan demikian, PENGGUNA disarankan untuk meninjau kembali halaman ini secara berkala untuk setiap perubahan-perubahan. PENYEDIA akan memberi tahu PENGGUNA tentang segala perubahan-perubahan dengan mengeposkan Kebijakan Privasi baru di halaman ini. Perubahan-perubahan ini berlaku segera setelah diposkan di halaman ini.</p>
-		<h3 id="f">Hubungi Kami</h3>
-		<p id="f1" style="text-align:justify">Jika PENGGUNA memiliki pertanyaan atau saran tentang Kebijakan Privasi ini, PENGGUNA dapat menghubungi PENYEDIA di rewardedtenfold@gmail.com.</p>
+		<h3 id="b">Pengumpulan dan Penggunaan Data Pribadi</h3>
+		<p id="b1" style="text-align:justify">Melalui LAYANAN ini, PENYEDIA sendiri tidak mengumpulkan, menggunakan, maupun menyimpan data pribadi PENGGUNA. Namun, PENYEDIA menggunakan SDK iklan dari pihak ketiga yang pada saat PENGGUNA menggunakan LAYANAN, pihak ketiga mungkin mengumpulkan sejumlah data pribadi PENGGUNA. Data pribadi tersebut dapat berupa:</p>
+		<ul style="padding-left:1.2em; margin-left:0">
+			<li id="b2" style="text-align:justify">aktivitas aplikasi, yaitu tentang bagaimana PENGGUNA berinteraksi dengan aplikasi, misalnya PENGGUNA mengetuk pada tampilan iklan;</li>
+			<li id="b3" style="text-align:justify">info dan performa aplikasi, yaitu tentang status dan performa layanan pihak ketiga dalam menyediakan iklan, misalnya log error, diagnostik, dan data lainnya terkait performa aplikasi;</li>
+			<li id="b4" style="text-align:justify">ID perangkat atau lainnya, yaitu tentang ID yang berkaitan dengan perangkat PENGGUNA yang terpasang LAYANAN, misalnya nomor IMEI, alamat MAC, ID iklan (AD-ID).</li>
+		</ul>
+		<p id="b5" style="text-align:justify">Data pribadi tersebut di atas mungkin digunakan dan dibagikan oleh pihak ketiga penyedia iklan dengan tujuan untuk:</p>
+		<ul style="padding-left:1.2em; margin-left:0">
+			<li id="b6" style="text-align:justify">fungsionalitas LAYANAN dalam menyediakan layanan iklan kepada PENGGUNA, misalnya ID iklan digunakan untuk menyediakan personalisasi iklan,</li>
+			<li id="b7" style="text-align:justify">periklanan atau pemasaran,</li>
+			<li id="b8" style="text-align:justify">analitik,</li>
+			<li id="b9" style="text-align:justify">pencegahan penipuan,</li>
+			<li id="b10" style="text-align:justify">keamanan,</li>
+			<li id="b11" style="text-align:justify">kepatuhan.</li>
+		</ul>
+		<h3 id="c">Enkripsi Data Pribadi</h3>
+		<p id="c1" style="text-align:justify">PENYEDIA menggunakan beberapa SDK iklan dari pihak ketiga untuk menyediakan layanan iklan kepada PENGGUNA. (Kebanyakan) pihak ketiga yang SDK-nya digunakan oleh LAYANAN mengenkripsi data pribadi PENGGUNA pada saat transit, namun sebagian yang lain tidak menyebutkan secara jelas tentang hal ini.</p>
+		<h3 id="d">Personalisasi Iklan</h3>
+		<p id="d1" style="text-align:justify">Personalisasi iklan adalah tindakan menggunakan data seorang PENGGUNA untuk meningkatkan keakuratan dari sebuah iklan bagi PENGGUNA tersebut. Jika tidak menginginkan data pribadinya digunakan untuk personalisasi iklan, PENGGUNA memiliki hak untuk memilih tidak ikut dalam layanan tersebut. Dengan memilih tidak ikut, maka PENGGUNA masih akan tetap menerima iklan, namun iklan yang tampil akan kurang relevan bagi PENGGUNA.</p>
+		<p id="d2" style="text-align:justify">Untuk tidak ikut personalisasi iklan, PENGGUNA dapat melakukannya dengan beberapa cara di bawah ini. Perlu diketahui bahwa setiap perangkat mungkin memiliki tampilan, menu, dan setelan yang berbeda antara satu perangkat dengan perangkat yang lain. Pada halaman ini, PENYEDIA mencantumkan beberapa cara yang paling umum digunakan untuk tidak ikut personalisasi iklan.</p>
+		<p id="d3" style="text-align:justify"><b>Cara 1</b></p>
+		<ol style="padding-left:1.2em; margin-left:0">
+			<li id="d4" style="text-align:justify">Buka <b>Setelan</b> di perangkat kemudian pilih <b>Google</b>, atau buka aplikasi <b>Setelan Google</b>.</li>
+			<li id="d5" style="text-align:justify">Pilih <b>Iklan</b>.</li>
+			<li id="d6" style="text-align:justify">Aktifkan <b>Tidak Ikut dari Personalisasi Iklan</b>.</li>
+		</ol>
+		<p id="d7" style="text-align:justify"><b>Cara 2</b></p>
+		<ol style="padding-left:1.2em; margin-left:0">
+			<li id="d8" style="text-align:justify">Buka <b>Setelan</b> di perangkat kemudian pilih <b>Google</b>, atau buka aplikasi <b>Setelan Google</b>.</li>
+			<li id="d9" style="text-align:justify">Pilih <b>Info Pribadi & Privasi</b>.</li>
+			<li id="d10" style="text-align:justify">Pilih <b>Setelan Iklan</b>.</li>
+			<li id="d11" style="text-align:justify">Nonaktifkan <b>Personalisasi Iklan</b>.</li>
+		</ol>
+		<h3 id="e">Permintaan Penghapusan Data Pribadi</h3>
+		<p id="e1" style="text-align:justify">PENGGUNA dapat mengajukan permintaan penghapusan data pribadi yang telah disimpan oleh pihak ketiga. Keterangan selengkapnya mengenai hal ini dapat ditemukan pada kebijakan privasi dari masing-masing pihak ketiga yang SDK-nya digunakan oleh LAYANAN.</p>
+		<h3 id="f">Pihak Ketiga</h3>
+		<p id="f1" style="text-align:justify">Dalam LAYANAN ini, pihak ketiga menyediakan iklan melalui SDK iklan yang digunakan di dalam LAYANAN. Dengan menggunakan SDK iklan dari pihak ketiga, maka pengelolaan data pribadi PENGGUNA akan berdasarkan pada kebijakan privasi pihak ketiga tersebut.</p>
+		<p id="f2" style="text-align:justify">Kebijakan privasi pihak ketiga berisi penjelasan yang lebih lengkap tentang pengumpulan dan penggunaan informasi pribadi PENGGUNA oleh pihak ketiga, permintaan penghapusan data pribadi, serta kontak pihak ketiga. Berikut ini adalah tautan ke kebijakan privasi pihak ketiga yang digunakan oleh LAYANAN:</p>
+		<p id="f3" style="text-align:justify"><a href="https://www.applovin.com/privacy/"><u>AppLovin</u></a></p>
+		<p id="f4" style="text-align:justify"><a href="https://www.adcolony.com/privacy-policy/"><u>AdColony</u></a></p>
+		<p id="f5" style="text-align:justify"><a href="https://answers.chartboost.com/en-us/articles/200780269"><u>Chartboost</u></a></p>
+		<p id="f6" style="text-align:justify"><a href="https://unity3d.com/legal/privacy-policy"><u>Unity Ads</u></a></p>
+		<h3 id="g">Tautan ke Situs-situs Lain</h3>
+		<p id="g1" style="text-align:justify">LAYANAN mungkin berisi tautan ke situs web, layanan, dan/atau aplikasi (termasuk iklan yang mungkin menghubungkan ke pihak ketiga). PENYEDIA tidak bertanggung jawab untuk pelaksanaan kebijakan privasi, keamanan, dan konten dari situs web, layanan, dan/atau aplikasi tersebut. Karena itu, PENYEDIA sangat menyarankan PENGGUNA untuk meninjau kebijakan privasi situs web, layanan, dan/atau aplikasi tersebut.</p>
+		<h3 id="h">Anak-anak</h3>
+		<p id="h1" style="text-align:justify">LAYANAN tidak ditujukan untuk anak-anak berusia di bawah 13 tahun. Jika PENGGUNA berusia di bawah 13 tahun, disarankan untuk mendapatkan pendampingan dari orang tua atau wali pada saat menggunakan LAYANAN.</p>
+		<h3 id="i">Perubahan-perubahan pada Kebijakan Privasi Ini</h3>
+		<p id="i1" style="text-align:justify">PENYEDIA dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Dengan demikian, PENGGUNA disarankan untuk meninjau kembali halaman ini secara berkala untuk setiap perubahan-perubahan. PENYEDIA akan memberi tahu PENGGUNA tentang segala perubahan-perubahan dengan mengeposkan Kebijakan Privasi baru di halaman ini. Perubahan-perubahan ini berlaku segera setelah diposkan di halaman ini.</p>
+		<h3 id="j">Hubungi Kami</h3>
+		<p id="j1" style="text-align:justify">Jika PENGGUNA memiliki pertanyaan atau saran tentang Kebijakan Privasi ini, PENGGUNA dapat menghubungi PENYEDIA di rewardedtenfold@gmail.com.</p>
 		<p id="update" style="text-align:center"></br></br></br></br>Terakhir diperbarui pada 8 Januari 2022.</br></br></p>
 	</body>
 </html>
