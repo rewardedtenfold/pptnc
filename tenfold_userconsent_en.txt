@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<p id="bytap" style="text-align:center"><b>By tapping "OK" button below, You (hereinafter referred to as USER) have read and agree to this User Consent.</b></p>
-		<hr>
+		<hr/>
 		<h2 id="a"></br></br>User Consent</br></br></h2>
 		<p id="a1" style="text-align:justify">Due to Google Play Data Safety, it is required for Tenfold (hereinafter referred to as PROVIDER) to explain in this NAMAAPLIKASI (hereinafter referred to as SERVICE) regarding the collection of USER's personal data and its use. Therefore, it is expected that USER reads it carefully before using SERVICE.</p>
 		<h3 id="b">1. Personal Data Handling</h3>
