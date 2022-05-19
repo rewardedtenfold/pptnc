@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title id="title">User Consent</title>
+		<title id="title">Persetujuan Pengguna</title>
 	</head>
 	<body>
 		<p id="bytap" style="text-align:center"><b>Dengan mengetuk tombol "OK" di bawah ini, Anda (selanjutnya disebut sebagai PENGGUNA) telah membaca dan menyetujui Persetujuan Pengguna ini.</b></p>
