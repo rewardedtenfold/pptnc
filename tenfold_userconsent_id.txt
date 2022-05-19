@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<p id="bytap" style="text-align:center"><b>Dengan mengetuk tombol "OK" di bawah ini, Anda (selanjutnya disebut sebagai PENGGUNA) telah membaca dan menyetujui Persetujuan Pengguna ini.</b></p>
-		<h2 id="a"></br></br>User Consent</br></br></h2>
+		<h2 id="a"></br></br>Persetujuan Pengguna</br></br></h2>
 		<p id="a1" style="text-align:justify">Dengan berlakunya Keamanan Data Google Play, maka diharuskan bagi Tenfold (selanjutnya disebut sebagai PENYEDIA) untuk menjelaskan di dalam aplikasi NAMAAPLIKASI (selanjutnya disebut sebagai LAYANAN) ini tentang pengambilan data pribadi PENGGUNA serta penggunaannya. Karena itu, diharapkan PENGGUNA membacanya dengan cermat sebelum menggunakan LAYANAN.</p>
 		<h3 id="b">1. Penanganan Data Pribadi</h3>
 		<p id="b1" style="text-align:justify">Melalui LAYANAN ini, PENYEDIA sendiri tidak mengumpulkan, menggunakan, maupun menyimpan data pribadi PENGGUNA. Namun, PENYEDIA menggunakan SDK iklan dari pihak ketiga yang pada saat PENGGUNA menggunakan LAYANAN, pihak ketiga mungkin mengumpulkan sejumlah data pribadi PENGGUNA. Data pribadi tersebut dapat berupa:</p>
