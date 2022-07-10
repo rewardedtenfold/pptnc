@@ -6,7 +6,7 @@
 	<body>
 		<p id="bytap" style="text-align:center"><b>By tapping "OK" button below, You (hereinafter referred to as USER) have read and agree to this User Consent.</b></p>
 		<h2 id="a"></br></br>User Consent</br></br></h2>
-		<p id="a1" style="text-align:justify">Due to Google Play Data Safety, it is required for Tenfold (hereinafter referred to as PROVIDER) to explain in this NAMAAPLIKASI (hereinafter referred to as SERVICE) regarding the collection of USER's personal data and its use. Therefore, it is expected that USER reads it carefully before using SERVICE.</p>
+		<p id="a1" style="text-align:justify">Due to Google Play Data Safety, it is required for Tenfold (hereinafter referred to as PROVIDER) to explain in this NAMAAPLIKASI app (hereinafter referred to as SERVICE) regarding the collection of USER's personal data and its use. Therefore, it is expected that USER reads it carefully before using SERVICE.</p>
 		<h3 id="b">1. Personal Data Handling</h3>
 		<p id="b1" style="text-align:justify">Through this SERVICE, PROVIDER itself does not collect, use, or store USER's personal data. However, PROVIDER uses ads SDKs from third party(s) which when USER uses SERVICE, third party(s) may collect some personal data of USER. Such personal data can be in the form of:</p>
 		<ul style="padding-left:1.2em; margin-left:0">
